@@ -3,5 +3,5 @@ Algoritmos y estrucutas de datos K1051
 208.252-4
 Gaitan Jorge
 
-Compilador: Visual Studio Code
+Compilador: CLion
 # AED
